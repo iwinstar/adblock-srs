@@ -1,4 +1,4 @@
-name: Fetch and Convert AdGuard Rules to SRS
+name: Convert-AdGuard-Rules
 
 on:
   workflow_dispatch:
