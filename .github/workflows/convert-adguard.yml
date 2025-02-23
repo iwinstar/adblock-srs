@@ -15,28 +15,27 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
 
+      - name: Clean up
+        run: |
+          rm sing-box
+          rm AdGuardDNSFilter_29.* 
+
       - name: Set up sing-box
         run: |
           singbox_url=`curl -s https://api.github.com/repos/SagerNet/sing-box/releases/latest | grep browser_download_url | grep linux-amd64 | cut -d'"' -f4`
           wget -O sing-box.tar.gz ${singbox_url}
           tar zxvf sing-box.tar.gz && rm sing-box.tar.gz
-          mkdir -p tmp/convert
-          cp sing-box-*-linux-amd64/sing-box tmp/convert/ && rm -r sing-box-*-linux-amd64
+          cp sing-box-*-linux-amd64/sing-box . && rm -r sing-box-*-linux-amd64
 
       - name: Fetch AdGuard DNS Filter Lists
         run: |
           filter_url="https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt"
-          wget -O tmp/convert/AdGuardDNSFilter_29.txt ${filter_url}
+          wget -O AdGuardDNSFilter_29.txt ${filter_url}
 
       - name: Convert with sing-box
         run: |
-          cd tmp/convert
-          for file in *.txt; do
-            ./sing-box rule-set convert "$file" --output "${file%.txt}.srs" --type adguard
-          done
-          cd ../.. && rm -r binary/adguard && mkdir -p binary/adguard
-          cp tmp/convert/*.srs binary/adguard/
-          rm -r tmp && ls -l binary/adguard
+          ./sing-box rule-set convert AdGuardDNSFilter_29.txt --type adguard
+          rm sing-box && ls -l *
 
       - name: Check and Commit
         run: |
