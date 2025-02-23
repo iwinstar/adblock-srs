@@ -1,0 +1,58 @@
+name: Fetch and Convert AdGuard Rules to SRS
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 8 * * *"
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: 'iwinstar/adblock-srs'
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Set up sing-box
+        run: |
+          singbox_url=`curl -s https://api.github.com/repos/SagerNet/sing-box/releases/latest | grep browser_download_url | grep linux-amd64 | cut -d'"' -f4`
+          wget -O sing-box.tar.gz ${singbox_url}
+          tar zxvf sing-box.tar.gz && rm sing-box.tar.gz
+          mkdir -p tmp/convert
+          cp sing-box-*-linux-amd64/sing-box tmp/convert/ && rm -r sing-box-*-linux-amd64
+
+      - name: Fetch AdGuard DNS Filter Lists
+        run: |
+          filter_url="https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt"
+          wget -O tmp/convert/AdGuardDNSFilter_29.txt ${filter_url}
+
+      - name: Convert with sing-box
+        run: |
+          cd tmp/convert
+          for file in *.txt; do
+            ./sing-box rule-set convert "$file" --output "${file%.txt}.srs" --type adguard
+          done
+          cd ../.. && rm -r binary/adguard && mkdir -p binary/adguard
+          cp tmp/convert/*.srs binary/adguard/
+          rm -r tmp && ls -l binary/adguard
+
+      - name: Check and Commit
+        run: |
+          git config --local user.email "2148409+iwinstar@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          if git diff --cached --exit-code; then
+            echo "changes=false" >> $GITHUB_ENV
+          else
+            echo "changes=true" >> $GITHUB_ENV
+            git commit -m "actions: Update AdGuard DNS Filter SRS" -a
+          fi
+
+      - name: Push
+        if: env.changes == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
