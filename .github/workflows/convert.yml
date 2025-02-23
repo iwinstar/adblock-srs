@@ -1,4 +1,4 @@
-name: Convert-AdGuard
+name: Convert-Rules
 
 on:
   workflow_dispatch:
@@ -18,18 +18,23 @@ jobs:
       - name: Set up sing-box
         run: |
           singbox_url=`curl -s https://api.github.com/repos/SagerNet/sing-box/releases/latest | grep browser_download_url | grep linux-amd64 | cut -d'"' -f4`
-          wget -O sing-box.tar.gz ${singbox_url}
-          tar zxvf sing-box.tar.gz && rm sing-box.tar.gz
-          cp sing-box-*-linux-amd64/sing-box . && rm -r sing-box-*-linux-amd64
+          wget -N ${singbox_url} -O sing-box.tar.gz
+          tar -zxvf sing-box.tar.gz --exclude=LICENSE --strip-components 1 && rm -rf sing-box.tar.gz
 
-      - name: Fetch AdGuard DNS Filter Lists
+      - name: Fetch Cats-Team DNS Rules
         run: |
-          filter_url="https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt"
-          wget -O AdGuardDNSFilter_29.txt ${filter_url}
+          cats_team_url="https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt"
+          wget -N ${cats_team_url} -O cats_team.txt
+
+      - name: Fetch Hagezi Ultimate DNS Rules
+        run: |
+          hagezi_ultimate_url="https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt"
+          wget -N ${hagezi_ultimate_url} -O hagezi_ultimate.txt
 
       - name: Convert with sing-box
         run: |
-          ./sing-box rule-set convert AdGuardDNSFilter_29.txt --type adguard
+          ./sing-box rule-set convert cats_team.txt --type adguard
+          ./sing-box rule-set convert hagezi_ultimate.txt --type adguard
           rm sing-box && ls -l *
 
       - name: Check and Commit
