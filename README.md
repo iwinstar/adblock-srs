@@ -1,7 +1,8 @@
-<center>
-# adblock-srs
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/iwinstar/adblock-srs/main?style=flat-square&color=red"/><img src="https://img.shields.io/github/license/iwinstar/adblock-srs?style=flat-square"/>
-</center>
+# ADBlock SRS
+<p align="center">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/iwinstar/adblock-srs/main?style=flat-square&color=red"/>
+<img src="https://img.shields.io/github/license/iwinstar/adblock-srs?style=flat-square"/>
+</p>
 
 Singbox compatible AdGuard CHN AdRules DNS List
 
