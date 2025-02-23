@@ -46,7 +46,7 @@ jobs:
             echo "changes=false" >> $GITHUB_ENV
           else
             echo "changes=true" >> $GITHUB_ENV
-            git commit -m "actions: Update AdGuard DNS Filter SRS" -a
+            git commit -m "actions: Update DNS Rules" -a
           fi
 
       - name: Push
