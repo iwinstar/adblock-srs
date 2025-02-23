@@ -1,4 +1,4 @@
-name: Convert-AdGuard-Rules
+name: Convert-AdGuard
 
 on:
   workflow_dispatch:
@@ -14,11 +14,6 @@ jobs:
           repository: 'iwinstar/adblock-srs'
           persist-credentials: false
           fetch-depth: 0
-
-      - name: Clean up
-        run: |
-          rm sing-box
-          rm AdGuardDNSFilter_29.* 
 
       - name: Set up sing-box
         run: |
