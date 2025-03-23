@@ -1,9 +1,9 @@
 !
 ! Title: CHN: AdRules DNS List
 ! Description: List for blocking ads in the Chinese region
-! Version: 1.0.17.93
+! Version: 1.0.17.96
 ! Homepage: https://github.com/Cats-Team/AdRules
-! Last modified: 2025-03-22T00:26:25.962Z
+! Last modified: 2025-03-23T00:29:46.765Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1518,6 +1518,7 @@
 ||45564736.xyz^
 ||4582.935ft4j96.com^
 ||4597.5clo0xmbf.com^
+||459b6951ca.com^
 ||45cb7b8453.com^
 ||45cf2c258c.a272118d17.com^
 ||45d31559c9.26fc91ec79.com^
@@ -2512,6 +2513,7 @@
 ||9400.4puuqeh41.com^
 ||9421d59b1d.com^
 ||9443.5clo0xmbf.com^
+||94444717.xyz^
 ||9452.79j68qav2.com^
 ||94597672.xyz^
 ||94789b3f8f.com^
@@ -9561,6 +9563,7 @@
 ||aimvaa.gulet.at^
 ||aincrd.champstudy.com^
 ||ainerations.com^
+||ainouzaudre.net^
 ||aintydevelelastic.com^
 ||ainu.intel.cn^
 ||ainu.intel.co.uk^
@@ -9778,6 +9781,7 @@
 ||ak-tracker.com^
 ||ak.5.p2l.info^
 ||ak.buyservices.com^
+||ak.bymetapodchan.com^
 ||ak.maneasiestways.com^
 ||ak.sascdn.com^
 ||ak.youbetterhealthy.com^
@@ -11747,6 +11751,7 @@
 ||animatedjumpydisappointing.com^
 ||animaterecover.com^
 ||animaux.oworld.fr^
+||animeshoppers.com^
 ||animits.com^
 ||animoseelegy.top^
 ||aninter.net^
@@ -13506,6 +13511,7 @@
 ||aqcutwom.xyz^
 ||aqdwkq.hihometech.net^
 ||aqeivzm.icu^
+||aqgyncebdxmpw.icu^
 ||aqhz.xyz^
 ||aqi.wd.amberweather.com^
 ||aqilk66444a.xyz^
@@ -14674,6 +14680,7 @@
 ||avividone.likr.tw^
 ||avjadt.e-look.jp^
 ||avjbjbekaazzw.top^
+||avkd.cn^
 ||avloan3431.fun^
 ||avmonk3431.fun^
 ||avndrealouer.fr^
@@ -16164,6 +16171,7 @@
 ||becominggunpowderpalette.com^
 ||becorsolaom.com^
 ||becrustleom.com^
+||bedaoibe.com^
 ||bedaslonej.com^
 ||bedaslonejul.cc^
 ||beddermidlegs.shop^
@@ -16191,6 +16199,7 @@
 ||beecrave.com^
 ||beedigital.padigital.es^
 ||beefcollections.com^
+||beefoaloode.net^
 ||beegotou.net^
 ||beegrenugoz.com^
 ||beehiveavertconfessed.com^
@@ -18323,6 +18332,7 @@
 ||btc9339.com^
 ||btcadtop.com^
 ||btcfbr.mejshop.jp^
+||btcijivtsvph.com^
 ||btcili.top^
 ||btdirectnav.com^
 ||btdnav.com^
@@ -20699,6 +20709,7 @@
 ||chaupheebe.net^
 ||chaussew.net^
 ||chautcho.com^
+||chauxuzauy.com^
 ||chavoads.com^
 ||chbwe.space^
 ||chdezxp.com^
@@ -20807,6 +20818,7 @@
 ||chesscrowd.com^
 ||chesssorrydescend.com^
 ||chesterstandard-gb.chesterstandard.co.uk^
+||chestgoingpunch.com^
 ||chetchen.net^
 ||chetchoa.com^
 ||chethgentman.live^
@@ -20898,6 +20910,7 @@
 ||chitsnooked.com^
 ||chivalrouscord.com^
 ||chivoagrie.net^
+||chivwtusseh.com^
 ||chiwaiwhor.xyz^
 ||chixingkeji.com^
 ||chkgdb.trendhim.com^
@@ -33307,6 +33320,7 @@
 ||elaterconditing.info^
 ||elaydark.com^
 ||elboncoin.fr^
+||eldaridpr.com^
 ||elderlybean.com^
 ||elderlyinsect.com^
 ||elderlyscissors.com^
@@ -37936,6 +37950,7 @@
 ||franecki.net^
 ||franeski.net^
 ||frankerreedits.com^
+||frankgreenauonline.shop^
 ||franko.info^
 ||franticcarpenter.com^
 ||franticimpenetrableflourishing.com^
@@ -39139,6 +39154,7 @@
 ||gemseeniloksair.net^
 ||gemtun.ctnewsjunkie.com^
 ||gemtvo.teflcourse.net^
+||gemworkbakairi.com^
 ||gen-ref.com^
 ||genbalar.com^
 ||generaleducation.graduateprogram.org^
@@ -39269,6 +39285,7 @@
 ||germinappropriateengine.com^
 ||germinatewishesholder.com^
 ||germmasonportfolio.com^
+||gerqragpl.com^
 ||gersutsaix.net^
 ||geruksom.net^
 ||gesanbarrat.com^
@@ -41339,6 +41356,7 @@
 ||gotpiu.regenbogen.com^
 ||gotrackier.com^
 ||gou.wps.cn^
+||gougligloupha.net^
 ||gougou88.xyz^
 ||gounodogaptofok.net^
 ||gousouse.com^
@@ -42676,6 +42694,7 @@
 ||gwvvgz.borgo.hu^
 ||gwwgqw.shoppingnature.com^
 ||gwxmed.raven-fishing.pl^
+||gwyvusam.com^
 ||gx.idg.se^
 ||gx0.funfuckmovies.com^
 ||gx101.com^
@@ -45077,6 +45096,7 @@
 ||hxvksgwv.luggagehero.com^
 ||hxwxfc.cn^
 ||hxwxffc.cn^
+||hxxkalmsovxvcp.com^
 ||hy.huangye88.net^
 ||hy.luassane.cn^
 ||hy90.cn^
@@ -51325,6 +51345,7 @@
 ||kmqhmn.helen-marlen.com^
 ||kmqianneng66.com^
 ||kmruv.cn^
+||kms-full.com^
 ||kms-pc.com^
 ||kms-tool.com^
 ||kmsauto.info^
@@ -52078,6 +52099,7 @@
 ||lackawopsik.xyz^
 ||lacklesslacklesscringe.com^
 ||lacmoudoossaiss.net^
+||lacoacmokregh.net^
 ||lacquerreddeform.com^
 ||lactasetooth.shop^
 ||lactifyfabraea.shop^
@@ -52221,6 +52243,7 @@
 ||landingpages.siemens-healthineers.com^
 ||landings.namapper.com^
 ||landings.omegacrmconsulting.com^
+||landsideresendtrousers.com^
 ||landsnail.bindle.io^
 ||landsnail.brownfield.dev^
 ||landsnail.garasjeport1.no^
@@ -56421,6 +56444,7 @@
 ||loose-courage.pro^
 ||looseclassroomfairfax.com^
 ||loosenpuppetnone.com^
+||lootcs.com^
 ||lootoshevub.net^
 ||lootynews.com^
 ||loovaist.net^
@@ -57941,6 +57965,7 @@
 ||manureinforms.com^
 ||manureoddly.com^
 ||maobujie.com^
+||maoeoa.xyz^
 ||maoskk.com^
 ||map.rockwellautomation.com^
 ||mapamnni.com^
@@ -63069,6 +63094,7 @@
 ||milljeanne.com^
 ||millsurfaces.com^
 ||millustry.top^
+||milseycurly.com^
 ||milteept.xyz^
 ||miltlametta.com^
 ||miluwo.com^
@@ -64540,6 +64566,7 @@
 ||musculetepidly.com^
 ||musedemeanouregyptian.com^
 ||museummargin.com^
+||museuw.com^
 ||mushroomplainsbroadly.com^
 ||mushroomskilledshapeless.com^
 ||mushywaste.com^
@@ -65112,7 +65139,6 @@
 ||naanalle.pl^
 ||nabalpal.com^
 ||nabauxou.net^
-||nabaza.shop^
 ||nabbr.com^
 ||nabflj.kibuc.com^
 ||nabgrocercrescent.com^
@@ -65327,9 +65353,8 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
+||navi42.ru^
 ||navi45.ru^
-||navi48.ru^
-||navi5.com^
 ||navi53.com^
 ||navi55.com^
 ||navi56.com^
@@ -66109,6 +66134,7 @@
 ||ngfruitiesmatc.info^
 ||ngfycrwwd.com^
 ||nggxgg.getfittrack.de^
+||nghv.cn^
 ||ngineet.cfd^
 ||nginxxx.xyz^
 ||ngjgnidajyls.xyz^
@@ -67678,6 +67704,7 @@
 ||oeiqfl.kiralikvilladatatil.com^
 ||oek7.april-moto.com^
 ||oeko.immergruen-energie.de^
+||oelj.cn^
 ||oelwojattkd.xyz^
 ||oempafnyfiexpe.com^
 ||oeryt111.fun^
@@ -71900,6 +71927,7 @@
 ||pi.technik3d.com^
 ||pi4.piczhq.com^
 ||piaigyyigyghjmi.xyz^
+||pianolamickeys.com^
 ||pianwela.xyz^
 ||piaochong.co^
 ||piaroankenyte.store^
@@ -72089,6 +72117,7 @@
 ||pirtecho.net^
 ||pirubcfy.xyz^
 ||pirxzl.xyz^
+||pisachafibular.top^
 ||pisb.cn^
 ||pisehiation.shop^
 ||pisgahserve.com^
@@ -72671,6 +72700,7 @@
 ||pliantleft.com^
 ||pliblc.com^
 ||plinksplanet.com^
+||plinsaqhsu.com^
 ||pliqpx.u7.ro^
 ||plirkep.com^
 ||plista.com^
@@ -92625,7 +92655,6 @@
 ||stealthlockers.com^
 ||steamgateways.com^
 ||steamjaws.com^
-||steammcommunuty.ru^
 ||steamunlock.com^
 ||stearncommunjty.net^
 ||stedrits.xyz^
@@ -92807,6 +92836,7 @@
 ||stongoapti.net^
 ||stongors.com^
 ||stonierteddy.com^
+||stonifylolls.com^
 ||stonkstime.com^
 ||stooboastaud.net^
 ||stoobsugree.net^
@@ -97635,6 +97665,7 @@
 ||todayintheword.moodybible.org^
 ||todayresearch.com^
 ||todaysdeals4u.com^
+||todayswigcontagious.com^
 ||toddlecausebeeper.com^
 ||toddlespecialnegotiate.com^
 ||todlht-xnm.rocks^
@@ -112758,6 +112789,7 @@
 ||yxpmkgzsqcxyu.site^
 ||yxpojn.lampenlicht.nl^
 ||yxqfkm.24mx.de^
+||yxqmryq.top^
 ||yxrmbjw.icu^
 ||yxsdgi.bedworld.net^
 ||yxtzwu.camicianista.com^
