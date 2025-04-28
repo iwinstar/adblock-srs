@@ -1,9 +1,9 @@
 !
 ! Title: CHN: AdRules DNS List
 ! Description: List for blocking ads in the Chinese region
-! Version: 1.0.19.48
+! Version: 1.0.19.52
 ! Homepage: https://github.com/Cats-Team/AdRules
-! Last modified: 2025-04-27T06:09:40.250Z
+! Last modified: 2025-04-28T06:16:41.622Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1429,6 +1429,7 @@
 ||433bcaa83b.com^
 ||43681e8af5.dde2488558.com^
 ||4399stat.5054399.com^
+||439f4b8c75.com^
 ||43a.icu^
 ||43e1628a5f.com^
 ||43ors1osh.com^
@@ -11806,7 +11807,6 @@
 ||animatedjumpydisappointing.com^
 ||animaterecover.com^
 ||animaux.oworld.fr^
-||animeshoppers.com^
 ||animits.com^
 ||animoseelegy.top^
 ||aninter.net^
@@ -12177,6 +12177,7 @@
 ||api-hotmart-tracking-manager.hotmart.com^
 ||api-log-analytics.cloud.toast.com^
 ||api-logdev.sohatv.vn^
+||api-metric.gosweb.gosuslugi.ru^
 ||api-notify.markarch.com^
 ||api-pixels.easyadsapp.com^
 ||api-push.meizu.com^
@@ -14586,6 +14587,7 @@
 ||audienceinsights.com^
 ||audiencemanager.de^
 ||audienceprofiler.com^
+||audiencies.3cat.cat^
 ||audiencies.ccma.cat^
 ||audiens.com^
 ||audio-pa-service.de^
@@ -18923,6 +18925,7 @@
 ||bvxvwb.miniwebshop.hu^
 ||bvzc.cn^
 ||bwbwye.klarstein.hu^
+||bwcnmtv.top^
 ||bwdhuanbao.com^
 ||bwekoc.celeconc.com^
 ||bweriov.top^
@@ -19454,6 +19457,7 @@
 ||cajoutigger.top^
 ||cajwgkgbuccs.xyz^
 ||cakangautchus.net^
+||cakesinventory.com^
 ||cakgsijbt.xyz^
 ||cakmzz.schwab.de^
 ||caknmq.rotita.com^
@@ -21042,6 +21046,7 @@
 ||chef.newtrina.com^
 ||chefishoani.com^
 ||cheh9k4t.com^
+||chekeunpaint.shop^
 ||chekrilsoumpoab.net^
 ||cheksoam.com^
 ||chelonebarpost.com^
@@ -28599,6 +28604,7 @@
 ||data.babyitem.nl^
 ||data.bangtubevideos.com^
 ||data.barfers-wellfood.de^
+||data.barry-callebaut.com^
 ||data.beautyuniverse.no^
 ||data.beautyuniverse.se^
 ||data.behang.nl^
@@ -29586,6 +29592,7 @@
 ||dbxok6uo.icu^
 ||dbxwnt.lascana.at^
 ||dbycathyhoughs.com^
+||dbyherslenderwai.com^
 ||dbzgtg.infostrada.it^
 ||dbzpek.nike.com^
 ||dc-rotator.com^
@@ -31171,6 +31178,7 @@
 ||disparitydegenerateconstrict.com^
 ||dispatcher.upmc.uc.cn^
 ||dispatchfeed.com^
+||dispatchgoldcarefully.com^
 ||dispatchunique.com^
 ||dispensablestranger.com^
 ||dispensedessertbody.com^
@@ -34866,6 +34874,7 @@
 ||enquirysavagely.com^
 ||enquisite.com^
 ||enrageeyesnoop.com^
+||enraptureforemostearly.com^
 ||enraptureshut.com^
 ||enrichyummy.com^
 ||enrivetatie.com^
@@ -35124,6 +35133,7 @@
 ||eremployeesihighl.com^
 ||erepsinslavian.shop^
 ||eresultedinncre.info^
+||ereyoumate.org^
 ||erfskhnpter.xyz^
 ||ergadx.com^
 ||ergiekszra.com^
@@ -38916,7 +38926,6 @@
 ||fundingchoicesmessages.google.com^
 ||fundraising.centuryresources.com^
 ||fundtraveller.com^
-||funfilenow.com^
 ||fungiaoutfame.com^
 ||fungus.online^
 ||fungusshapesniff.com^
@@ -43524,6 +43533,7 @@
 ||h8ne.com^
 ||ha.aomg5bzv7.com^
 ||haamumvxavsxwac.xyz^
+||habilitacao.org^
 ||habirimodioli.com^
 ||habitualexecute.com^
 ||habitualhumor.com^
@@ -44851,6 +44861,7 @@
 ||hkgwwf.sunparks.com^
 ||hkilops.com^
 ||hkj8.evobanco.com^
+||hkjfukkhwfepo.club^
 ||hkjzkrqz.icu^
 ||hkk456.cc^
 ||hkkeafj.cn^
@@ -45569,6 +45580,7 @@
 ||htyzpilijhki.com^
 ||hu-business.vodafone.com^
 ||hu-topgal.m-shop.me^
+||hua4207.xyz^
 ||huafcpvegmm.xyz^
 ||huapydce.xyz^
 ||huatuo.qq.com^
@@ -48645,7 +48657,6 @@
 ||informationpolicy.cloud^
 ||informatm-static.reviveservers.com^
 ||informed.belocalnwa.com^
-||informed.updateicybd.top^
 ||informedderiderollback.com^
 ||informengine.com^
 ||informer.yandex.ru^
@@ -48681,6 +48692,7 @@
 ||ingest.do.brainsland.com^
 ||ingest.make.rvapps.io^
 ||ingest.make.rvohealth.com^
+||ingesteer.services-prod.nsvcs.net^
 ||ingigalitha.com^
 ||ingotedbooze.com^
 ||ingotheremplo.info^
@@ -49644,6 +49656,7 @@
 ||itnhosioqb.com^
 ||itnuzleafan.com^
 ||itop.cz^
+||itoqals.com^
 ||itp.phoebebeautyup.com^
 ||itp.yaku-job.com^
 ||itpatratr.com^
@@ -50587,6 +50600,7 @@
 ||jntmwrm.com^
 ||jnuvag.xn--80ablaq9bcd5c.xn--p1ai^
 ||jnwpzq.com^
+||jnwuama.top^
 ||jnxm2.com^
 ||jnzedp.his-j.com^
 ||jo.429men.com^
@@ -51269,6 +51283,7 @@
 ||jxpsrh.casamundo.co.uk^
 ||jxreqj.agentprovocateur.ru^
 ||jxsmzz.mytrauringstore.de^
+||jxtcbriz.icu^
 ||jxtejf.xyz^
 ||jxvrhx.fotokoch.de^
 ||jxwjla.breville-romania.ro^
@@ -51413,6 +51428,7 @@
 ||k9u.icu^
 ||k9w4m.xyz^
 ||kaacsi.belvilla.nl^
+||kaakfwbhq.com^
 ||kaan.kakao.com^
 ||kaarheciqa.xyz^
 ||kaartenhuis.nl.site-id.nl^
@@ -52243,6 +52259,7 @@
 ||knurleddeblock.guru^
 ||knutenegros.pro^
 ||knvyzx.h201shift.com^
+||knwuamd.top^
 ||knxabzznddtc.com^
 ||knymhv.ariat.com^
 ||knzmrw.infojobs.net^
@@ -55501,7 +55518,6 @@
 ||load.data.annedevillers.com^
 ||load.data.autopfand-profi.de^
 ||load.data.autoreset.nl^
-||load.data.barry-callebaut.com^
 ||load.data.bestofwines.com^
 ||load.data.bestofwines.de^
 ||load.data.bestofwines.fr^
@@ -59050,6 +59066,7 @@
 ||markedoneofth.com^
 ||markedoneofthe.info^
 ||markedpail.com^
+||marker.konograma.com^
 ||markerleery.com^
 ||market-click-baobab.yandex.ru^
 ||market-keyade.macif.fr^
@@ -65623,7 +65640,6 @@
 ||mudodqjhyc.com^
 ||mudrouraung.net^
 ||muendakutyfore.info^
-||muer.cdn-baidu.fs-sywh.com^
 ||mufflercypress.com^
 ||mufsresuwoxg.com^
 ||mugapi.lazzarionline.com^
@@ -65678,6 +65694,7 @@
 ||muntswe58.shop^
 ||muojfe.mybesthome.cz^
 ||mupattbpoj.com^
+||mupocndf.com^
 ||muqtti.motoin.de^
 ||muragetunnel.com^
 ||murallyhuashi.casa^
@@ -66495,6 +66512,7 @@
 ||navi44.com^
 ||navi45.ru^
 ||navi48.com^
+||navi5.com^
 ||navi52.com^
 ||navi53.com^
 ||navi55.com^
@@ -67541,6 +67559,7 @@
 ||nlztpmhcxyzwh.vip^
 ||nm.5.p2l.info^
 ||nm2.icu^
+||nmajjhzqyckro.icu^
 ||nmanateex.top^
 ||nmaykd.eshakti.com^
 ||nmcdn.us^
@@ -69304,6 +69323,7 @@
 ||oldforeyesheh.info^
 ||oldftp.otenet.gr^
 ||oldgyhogola.com^
+||oldh.cn^
 ||oldrb.pro^
 ||oldulgk.cn^
 ||olep.xyz^
@@ -70614,6 +70634,7 @@
 ||otcajlahpan.com^
 ||otdalxhhiah.com^
 ||otekmnyfcv.com^
+||otel-collector.lenta.tech^
 ||otfy.cn^
 ||otglee.recman.pl^
 ||oth.eve.qq.com^
@@ -72315,6 +72336,7 @@
 ||pasxfixs.com^
 ||patakaendymal.top^
 ||patalogs.com^
+||patcans.club^
 ||patchedcyamoid.com^
 ||patchouptid.xyz^
 ||patefysouari.com^
@@ -76643,6 +76665,7 @@
 ||qmgria.cn^
 ||qmgzkb.dedoles.sk^
 ||qmiiln.tower.jp^
+||qmixnhyxc.com^
 ||qmkackqmigezu.club^
 ||qmlrmarmalrbb.top^
 ||qmlzcm.petshop.ru^
@@ -85576,6 +85599,7 @@
 ||smartlysquare.com^
 ||smartmad.com^
 ||smartmail.cyou^
+||smartmetrics.co.uk^
 ||smartmuchang.com^
 ||smartnews-ads.com^
 ||smartnextusa.com^
@@ -98929,6 +98953,7 @@
 ||tianyuewangluo.top^
 ||tiaoap.xyz^
 ||tibacta.com^
+||tiboha.top^
 ||tibs.fr^
 ||tibykzo.com^
 ||tic-tic-bam.com^
@@ -103430,6 +103455,7 @@
 ||traitpigsplausible.com^
 ||traka8.crypto-mall.org^
 ||trakaff.net^
+||trakle01.online^
 ||traktor.adventures.is^
 ||traktor.lozkoholicy.pl^
 ||traktortds.com^
@@ -103485,6 +103511,7 @@
 ||trantpopshop.top^
 ||traovrjwu.com^
 ||trap.skype.com^
+||trapdoortissuepush.com^
 ||trappcloudservices.trapptechnology.com^
 ||trappush.com^
 ||traq.li^
@@ -107631,6 +107658,7 @@
 ||vbyoyg.couturecandy.com^
 ||vc-login.com^
 ||vcacra.dieti-natura.es^
+||vcaqexl.com^
 ||vcarrefour.fr^
 ||vcdc.com^
 ||vcdfsf99.fun^
@@ -107968,6 +107996,7 @@
 ||vhtyed.emerige.com^
 ||vhulan.com^
 ||vhutitpu.icu^
+||vhxzfz.icu^
 ||vhzivz.xyz^
 ||vi-improved.org^
 ||vi-serve.com^
@@ -110852,6 +110881,7 @@
 ||wmnnjfe.com^
 ||wmober.com^
 ||wmokhr.chanti.se^
+||wmol.cn^
 ||wmpevgwd.com^
 ||wmpmvk.whiskeyriff.com^
 ||wmpset.com^
@@ -111423,6 +111453,7 @@
 ||ww2.imgtaxi.com^
 ||ww2.imgwallet.com^
 ||ww2.vinhwellness.com^
+||ww25.utilify.me^
 ||ww8.kohls.com^
 ||ww9.kohls.com^
 ||wwaavqctoz.com^
@@ -113463,6 +113494,7 @@
 ||xmcvqq.pinkpanda.ro^
 ||xmediaserve.com^
 ||xmegaxvideox.com^
+||xmetrics.camsoda.com^
 ||xmhszb.xyz^
 ||xmjajv.xyz^
 ||xmkbrfyu.cn^
@@ -115647,6 +115679,7 @@
 ||zeroredirect5.com^
 ||zeroredirect8.com^
 ||zerorolex.com^
+||zerowasteinitiative.com^
 ||zeryt111.fun^
 ||zerzvqrzzvlmo.top^
 ||zesgky.belambra.fr^
