@@ -1,9 +1,9 @@
 !
 ! Title: CHN: AdRules DNS List
 ! Description: List for blocking ads in the Chinese region
-! Version: 1.0.20.24
+! Version: 1.0.20.28
 ! Homepage: https://github.com/Cats-Team/AdRules
-! Last modified: 2025-05-14T06:10:45.949Z
+! Last modified: 2025-05-15T06:11:00.529Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -6341,6 +6341,7 @@
 ||adlightning.com^
 ||adlink-api.huan.tv^
 ||adlink.de^
+||adlink.wurl.com^
 ||adlite.net^
 ||adlive.cn^
 ||adlive.io^
@@ -9775,6 +9776,7 @@
 ||ako.cc^
 ||akoo0513uis.com^
 ||akoo0514uis.com^
+||akoo0515uis.com^
 ||akpiug.rarecarat.com^
 ||akplvs.raja.fr^
 ||aksazkxmiopf.com^
@@ -11712,6 +11714,7 @@
 ||anchornails.com^
 ||ancientact.com^
 ||anconeswalsh.shop^
+||ancotvpaxoz.com^
 ||ancqie.finanztrends.info^
 ||ancree.fr^
 ||ancsicavjsas.com^
@@ -13804,6 +13807,7 @@
 ||art.b.inhaabit.com^
 ||art.carte-gr.total.fr^
 ||artax-evn.com^
+||artdecorhome.store^
 ||artditement.info^
 ||arteltubman.top^
 ||artemis-cdn.ocdn.eu^
@@ -14514,6 +14518,7 @@
 ||au6w0.xyz^
 ||aubaigeep.com^
 ||auburn9819.com^
+||aucdn.net^
 ||auchoahy.net^
 ||auchoons.net^
 ||auckodsailtoas.net^
@@ -18543,6 +18548,7 @@
 ||budvawshes.ru^
 ||buf.lemonde.fr^
 ||bufetgarrigosa.com^
+||buffatopmost.com^
 ||buffethypothesis.com^
 ||buffetreboundfoul.com^
 ||bufmjknaeprvyd.com^
@@ -30586,6 +30592,7 @@
 ||digitalninjas.vattenfall.nl^
 ||digitaltarget.ru^
 ||digitalworkplace.ricoh.fr^
+||digithalo.com^
 ||digitklosh.top^
 ||digitru.st^
 ||dignityhourmulticultural.com^
@@ -31393,6 +31400,7 @@
 ||doanaudabu.net^
 ||doapovauma.net^
 ||doappcloud.com^
+||doapujoptude.net^
 ||doastaiwhouwouy.com^
 ||doathair.com^
 ||dobbenetes.com^
@@ -36489,6 +36497,7 @@
 ||faze10.com^
 ||faze2.com^
 ||faze24.com^
+||faze3.com^
 ||faze4.com^
 ||faze40.com^
 ||faze47.com^
@@ -36947,6 +36956,7 @@
 ||fhiwyq.axiory.com^
 ||fhjrpcmkyrkvi.space^
 ||fhkizh.boxil.jp^
+||fhl05150ps.com^
 ||fhldb.site^
 ||fhmhgv.watski.dk^
 ||fhnbrx.xyz^
@@ -38367,6 +38377,7 @@
 ||friday89.com^
 ||friday99.com^
 ||fridayarched.com^
+||fridaylocalmanager.duckdns.org^
 ||fridayrefractscorer.com^
 ||fridaywake.com^
 ||fridgesbunt.top^
@@ -39824,6 +39835,7 @@
 ||getpublica.com^
 ||getpxq.rivolishop.com^
 ||getrelator.com^
+||getrockerbox.com^
 ||getrunbestlovemy.info^
 ||getrunkhomuto.info^
 ||getrunmeellso.com^
@@ -40118,6 +40130,7 @@
 ||gitajwl.com^
 ||github.gpuzelenograd.cloudns.be^
 ||gitoku.com^
+||giuntaexhort.com^
 ||give.mcw-fhf.org^
 ||givebacks25.fun^
 ||givenconserve.com^
@@ -44790,7 +44803,6 @@
 ||hooglaibou.net^
 ||hoojique.xyz^
 ||hoojts.demmelhuber.net^
-||hookahheroes.com^
 ||hookawep.net^
 ||hookjav12.fun^
 ||hookups-hots-searchs.com^
@@ -44935,6 +44947,7 @@
 ||hotngay.vn^
 ||hotrank.com.tw^
 ||hotswoman-online.com^
+||hottedholster.com^
 ||hottercensorbeaker.com^
 ||hotupgrade.hpplay.cn^
 ||hotvideos.fr^
@@ -45390,6 +45403,7 @@
 ||huskinessimminentstylus.com^
 ||huskypartydance.com^
 ||husoxn.investors.com^
+||hussaiphoa.com^
 ||hutchieshode.com^
 ||hutjfl.pennyblack.com^
 ||hutkse.wecandoo.fr^
@@ -47080,6 +47094,7 @@
 ||imp-*.jampp.com^
 ||imp.accesstra.de^
 ||imp.clickability.com^
+||imp.datafyhq.com^
 ||imp.dmm.com^
 ||imp.mgronline.com^
 ||imp.pixiv.net^
@@ -57848,6 +57863,7 @@
 ||lv6od3a4sz12.www.logology.co^
 ||lv9qr0g0.xyz^
 ||lvbdml.avantajosul.ro^
+||lvbeybbrwvywq.top^
 ||lvcnmtl.top^
 ||lvcrvm.tkc110.jp^
 ||lvdpyp.easy-gliss.com^
@@ -63997,6 +64013,7 @@
 ||mipfohaby.com^
 ||miptj.space^
 ||miqbqh.mizunomori.com^
+||miqdigital.com^
 ||miqeuu.timberland.it^
 ||miqorhogxc.com^
 ||miqznq.eszonyeg.hu^
@@ -64167,6 +64184,7 @@
 ||mkltfc.atgp.jp^
 ||mkmkew.hometogo.no^
 ||mkmozt.chocolats-louis.com^
+||mkocdauxf.com^
 ||mkolqj.ozonee.pl^
 ||mkosiw.sumai1.com^
 ||mkpzmq.crocs.ru^
@@ -66041,6 +66059,7 @@
 ||nalraughaksie.net^
 ||nalroustaucmoux.net^
 ||nalyticaframeofm.com^
+||nalyxg.top^
 ||nalzahqp.page.link^
 ||namcah.alipearlhair.com^
 ||nameads.com^
@@ -66190,7 +66209,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi4.com^
-||navi42.ru^
 ||navi44.com^
 ||navi45.ru^
 ||navi48.com^
@@ -66580,7 +66598,6 @@
 ||netsponsors.com^
 ||netstam.com^
 ||netstat.yunnan.cn^
-||netsugar.shop^
 ||nettokom-lp.information.nettokom.de^
 ||nettrackway.com^
 ||netund.com^
@@ -67151,6 +67168,8 @@
 ||nitroclicks.com^
 ||nitrokod.com^
 ||nitrous-analytics.s3.amazonaws.com^
+||niu05150jd.top^
+||niu05151jd.top^
 ||niveausatan.shop^
 ||niveauultion.shop^
 ||niwooghu.com^
@@ -68326,6 +68345,7 @@
 ||oauqyw.xyz^
 ||oavgoe.irs.jp^
 ||oavurognaurd.net^
+||oaxaubauls.com^
 ||ob.leap.app^
 ||ob.tracking.capitalistriseup.com^
 ||ob.tracking.libertyandincome.com^
@@ -69465,6 +69485,7 @@
 ||onclkds.com^
 ||onclklnd.com^
 ||oncustomer.asia^
+||ondatraflemish.com^
 ||ondbazxakr.com^
 ||ondermaat.nl^
 ||ondewottom.com^
@@ -69845,6 +69866,7 @@
 ||opjnbmk.com^
 ||opkkjh.xyz^
 ||opkmio.xyz^
+||opkrerkaidf.com^
 ||opleshouldthink.com^
 ||oplog.mulai.pw^
 ||oplpectation.xyz^
@@ -76088,6 +76110,7 @@
 ||qimaf.com^
 ||qimcqs.hometogo.dk^
 ||qimnubohcapb.com^
+||qimsgi.icu^
 ||qingolor.com^
 ||qinvaris.com^
 ||qip.magna.ru^
@@ -79112,7 +79135,6 @@
 ||rpsctx.chamilia.com^
 ||rpsukimsjy.com^
 ||rpt.kidsfootlocker.com^
-||rptbaa.shop^
 ||rptdhu.top^
 ||rptmoczqsf.com^
 ||rpts.org^
@@ -80175,6 +80197,7 @@
 ||s.dstfgh.com^
 ||s.dsvrqo.com^
 ||s.dsx827.com^
+||s.dt6ycu.com^
 ||s.durhamregion.com^
 ||s.dynad.net^
 ||s.eaalink.com^
@@ -96677,6 +96700,7 @@
 ||taduhy.timberland.co.uk^
 ||taetsiainfall.shop^
 ||taffetyumiacks.shop^
+||taffykhirka.com^
 ||tag-manager.playbuzz.com^
 ||tag.aftvnews.com^
 ||tag.aromatico.de^
@@ -97169,6 +97193,7 @@
 ||tanio-najtaniej.com^
 ||tankleconflab.shop^
 ||tanothingfruiti.com^
+||tansazauksorg.com^
 ||tansuotv.com^
 ||tanv.com^
 ||tanzineshruti.shop^
@@ -104863,6 +104888,7 @@
 ||tugngs.tui.com^
 ||tugpoise.com^
 ||tugraughilr.xyz^
+||tuhesok.com^
 ||tuhmkjce.icu^
 ||tuhqixonk.com^
 ||tuhzjrr.cn^
@@ -110530,6 +110556,7 @@
 ||witnessremovalsoccer.com^
 ||witnesssellingoranges.com^
 ||witskirifkab.com^
+||wittijtuno.com^
 ||wittomeinvokes.com^
 ||wittyanswer.pro^
 ||wiwarrkazg.com^
@@ -112806,6 +112833,7 @@
 ||wyvlllooalkbv.top^
 ||wyvlllooalobz.top^
 ||wyvpkmbj.icu^
+||wyvw.cn^
 ||wywkwqzkavlvw.top^
 ||wywvyf.discuss.com.hk^
 ||wywvyf.price.com.hk^
@@ -112988,6 +113016,7 @@
 ||xchange.ro^
 ||xcinilwpypp.com^
 ||xciozdacgos.com^
+||xcipwuoft.com^
 ||xckj0623.com^
 ||xckyqq.com^
 ||xclicks.net^
@@ -114641,6 +114670,7 @@
 ||ymetrica1.com^
 ||ymewsu.xyz^
 ||ymgjc.com^
+||ymgranque.com^
 ||ymhxgl.belluna-gourmet.com^
 ||ymima360.com^
 ||ymixqb.nationalgeographic.com^
