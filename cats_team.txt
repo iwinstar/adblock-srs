@@ -1,9 +1,9 @@
 !
 ! Title: CHN: AdRules DNS List
 ! Description: List for blocking ads in the Chinese region
-! Version: 1.0.20.81
+! Version: 1.0.20.85
 ! Homepage: https://github.com/Cats-Team/AdRules
-! Last modified: 2025-05-31T06:09:36.905Z
+! Last modified: 2025-06-01T06:10:29.682Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -14599,6 +14599,7 @@
 ||ats.otto.de^
 ||atservineor.com^
 ||atsg.me^
+||atsgiu.icu^
 ||atshroomisha.com^
 ||atsidhelookin.org^
 ||atsmetrics.adobe.com^
@@ -14681,7 +14682,6 @@
 ||aty.sohu.com^
 ||atyoureatth.org^
 ||atzekromchan.com^
-||au-bloomreach.com^
 ||au-go.experian.com^
 ||au-partners.ingrammicro.com^
 ||au.audacem.com^
@@ -17197,6 +17197,7 @@
 ||binomo1.com^
 ||binomo2.zendesk.com^
 ||binomoidr.com^
+||binomorupiah-id.com^
 ||binomotop.com^
 ||binomoweb.org^
 ||binomoweblogin.com^
@@ -20030,7 +20031,6 @@
 ||cash.femjoy.com^
 ||cash4members.com^
 ||cash4popup.de^
-||casha.xyz^
 ||cashandlife.com^
 ||cashback.co.uk^
 ||cashbackwow.co.uk^
@@ -20808,6 +20808,7 @@
 ||cedeimprovise.com^
 ||cedexis-radar.net^
 ||cedexis.com^
+||cedhoinle.com^
 ||cedricfaces.shop^
 ||cedrt6.pro^
 ||cee1.iteye.com^
@@ -26253,6 +26254,7 @@
 ||darakht.com^
 ||darcyjellynobles.com^
 ||dardzeglhpsqv.tech^
+||daredjadedormitory.com^
 ||daretodreamfarm.com^
 ||darghinruskin.com^
 ||daringdemand.com^
@@ -30337,6 +30339,7 @@
 ||deitynosebleed.com^
 ||deityshovedcarriage.com^
 ||dejavu.mlapps.com^
+||dejcxwlv8.com^
 ||dejjjdbifojmi.com^
 ||dejoyaux.fr^
 ||dejpog.sunstar-shop.jp^
@@ -32393,7 +32396,6 @@
 ||dreamintim.net^
 ||dreamlikefostergala.com^
 ||dreammember-journey.com^
-||dreamstee.com^
 ||dreamstees.com^
 ||dreamteamaffiliates.com^
 ||dreamycanyon.com^
@@ -35684,6 +35686,7 @@
 ||ethylicestops.top^
 ||etienlw.top^
 ||etingplansfo.buzz^
+||etiquettealliance.com^
 ||etiquettegrapesdoleful.com^
 ||etjui.cn^
 ||etk.locusrobotics.com^
@@ -37226,6 +37229,7 @@
 ||fe-go.letv.com^
 ||fe.futuroscope.com^
 ||fe.lea.lycos.es^
+||fe158168fc.com^
 ||fe4b0f5775.0b6f7dc9d8.com^
 ||fe7qygqi2p2h.com^
 ||fe9dc503.xyz^
@@ -38048,6 +38052,7 @@
 ||fjtroip.cn^
 ||fjuccm.uktsc.com^
 ||fjxadi.maxi-pieces-50.fr^
+||fk3nf1xeh.top^
 ||fkabzoarsoz.com^
 ||fkacazvha.com^
 ||fkanei.madura.fr^
@@ -40090,6 +40095,7 @@
 ||gearhomies.com^
 ||gearhuman.com^
 ||gearsshoppe.top^
+||gearstastic.com^
 ||gearver.com^
 ||gecdwmkee.com^
 ||gecfnc.foresight.jp^
@@ -42214,6 +42220,7 @@
 ||goodandsoundcontent.com^
 ||goodbookbook.com^
 ||goodbusinesspark.com^
+||goodcaesarjonas.com^
 ||gooddemands.com^
 ||goodgamesmanship.com^
 ||goodnesstamper.com^
@@ -44707,6 +44714,7 @@
 ||herma-tor.com^
 ||hermes.allo-media.net^
 ||hermitslistred.shop^
+||hermsdhan.com^
 ||hernetoise.shop^
 ||hernoclothing.com^
 ||herodiessujed.org^
@@ -45935,6 +45943,7 @@
 ||hslkll.riu-check.de^
 ||hslkll.trennungsschmerzen.de^
 ||hslkll.verkehrsuebungsplatz-info.de^
+||hsmyqntcs.com^
 ||hsnskx.care^
 ||hsoubnp.icu^
 ||hspqur.happy-size.ch^
@@ -46140,6 +46149,7 @@
 ||hunchmotherhooddefine.com^
 ||hunchnorthstarts.com^
 ||hunchsewingproxy.com^
+||hunden.info^
 ||hundredpercentmargin.com^
 ||hungaryexpres.com^
 ||hungerblackenunequal.com^
@@ -58900,6 +58910,7 @@
 ||lxsway.vimedbarn.se^
 ||lxsway.webblogg.se^
 ||lxswqh.oyorooms.com^
+||lxsz0w0aw.com^
 ||lxting.com^
 ||lxvsjdmjygqcc.space^
 ||lxwasy.tatragarden.ua^
@@ -65698,6 +65709,7 @@
 ||mole.vcntlee.com^
 ||moleconcern.com^
 ||molecularhouseholdadmiral.com^
+||moleya.click^
 ||molikrebaumt.xyz^
 ||mollesscar.top^
 ||mollusk.forwardmx.io^
@@ -66528,6 +66540,7 @@
 ||muzikguide.com^
 ||muzoohat.net^
 ||muzzlematrix.com^
+||muzzlequick.com^
 ||mv.aomg5bzv7.com^
 ||mv.treehousei.com^
 ||mv0129.stream^
@@ -67142,6 +67155,7 @@
 ||nala.headuplabs.com^
 ||nalhedgelnhamf.info^
 ||naliw.xyz^
+||naljjd.top^
 ||nallahhypural.shop^
 ||nalraughaksie.net^
 ||nalyticaframeofm.com^
@@ -67994,6 +68008,7 @@
 ||nexage.com^
 ||nexium.1.p2l.info^
 ||nexjzgqalrtgq.online^
+||nexkrnphsfipi.buzz^
 ||nextadgem.com^
 ||nextclickadv.com^
 ||nextel-ringtone.spb.su^
@@ -68344,6 +68359,7 @@
 ||nlytcs.idfnet.net^
 ||nlyuuy.cn^
 ||nlztpmhcxyzwh.vip^
+||nlzyp.cn^
 ||nm.5.p2l.info^
 ||nm2.icu^
 ||nmajjhzqyckro.icu^
@@ -75525,7 +75541,6 @@
 ||prinksoncotic.com^
 ||printaugment.com^
 ||printerplasma.com^
-||printkay.com^
 ||printmail.biz^
 ||printteestore.com^
 ||priosante.fr^
@@ -77217,6 +77232,7 @@
 ||qmlnioxbjldsfsa.xyz^
 ||qmlrmarmalebo.top^
 ||qmlzcm.petshop.ru^
+||qmogjaezcv.club^
 ||qmoyfh.xcite.com.sa^
 ||qmpolidwfefrxem.com^
 ||qmrelvevwlwlw.top^
@@ -79818,6 +79834,7 @@
 ||rmdvca.belvilla.de^
 ||rmedia.boston.com^
 ||rmgdapfnccsharpprd.azurewebsites.net^
+||rmgujvailde.com^
 ||rmhfrtnd.com^
 ||rmioswx.icu^
 ||rmishe.com^
@@ -80193,6 +80210,7 @@
 ||rrjzyj.lepage.fr^
 ||rrkouuz.icu^
 ||rrmlejvyqwzk.top^
+||rrobbybmkwjww.top^
 ||rrptnkao.icu^
 ||rrqwarwrewrlj.top^
 ||rrss.abc.es^
@@ -82783,6 +82801,7 @@
 ||scopelight.com^
 ||scopolasultone.com^
 ||scorchads.com^
+||scorchobservedsow.com^
 ||scorchstrung.com^
 ||score-feed.com^
 ||scorecardresearch.com^
@@ -85454,6 +85473,7 @@
 ||shirmpy.adobe.fanatics.com^
 ||shirtclumsy.com^
 ||shirttest.com^
+||shistirgeemp.net^
 ||shiswashisco.com^
 ||shitcustody.com^
 ||shitsoojacm.net^
@@ -91438,6 +91458,7 @@
 ||spt.performgroup.com^
 ||sptrck.com^
 ||sptrkr.com^
+||spujbior.com^
 ||spukesuzette.shop^
 ||spumvgltasdrjg.xyz^
 ||spunorientation.com^
@@ -101214,6 +101235,7 @@
 ||totemcash.com^
 ||totenoltood.com^
 ||totentacruelor.com^
+||totesnobis.com^
 ||totjbbqm.com^
 ||totlnkbn.com^
 ||totlnkcl.com^
@@ -106042,6 +106064,7 @@
 ||trucelabwits.com^
 ||trucemallow.website^
 ||truckstomatoes.com^
+||truckwinding.com^
 ||truculentrate.com^
 ||true-counter.com^
 ||true-girlstheconnection.com^
@@ -114327,6 +114350,7 @@
 ||wywyuserservice.com^
 ||wyxcb3.top^
 ||wyzdlu.arhaus.com^
+||wyzia-orderdeposits.com^
 ||wyzq.rehuwang.com^
 ||wz.allianz.fr^
 ||wzavyi.whitewall.com^
@@ -114475,7 +114499,6 @@
 ||xbmady.daimaru-matsuzakaya.jp^
 ||xbmiicdidpymj.vip^
 ||xbnaiz.corridornyc.com^
-||xborders.io^
 ||xbox-ms-store-debug.com^
 ||xbqm.cn^
 ||xbrutm.sevenstore.com^
@@ -115375,6 +115398,7 @@
 ||xpu.samsungelectronics.com^
 ||xpvv0rkn.fun^
 ||xpwchy.tennis-point.nl^
+||xpxi.cn^
 ||xpxondckpvbub.com^
 ||xpxsfejcf.com^
 ||xpyccf.jdsports.fi^
@@ -115766,6 +115790,7 @@
 ||yaayoi.neatfx.fr^
 ||yabbymosette.top^
 ||yac5t.cn^
+||yackedcuttage.com^
 ||yackos.mamalicious.com^
 ||yadro.ru^
 ||yads.c.yimg.jp^
@@ -116073,6 +116098,7 @@
 ||yiloaguwoauyd.site^
 ||yilzeq.bornshoes.com^
 ||yim3eyv5.top^
+||yimc.cn^
 ||yimemediatesup.com^
 ||yimh.cn^
 ||yin1.zgpingshu.com^
@@ -116520,6 +116546,7 @@
 ||yuearanceofam.info^
 ||yuedu.iqiyi.com^
 ||yuehesh.com^
+||yuelmodqhrw.com^
 ||yueqal.glassesusa.com^
 ||yugjwgg.icu^
 ||yugqqqq.icu^
